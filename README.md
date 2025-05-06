@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a Financial app.<br>👯 I'm looking to collaborate on a full-stack project.<br>🤝 I'm looking for help with React.<br>🌱 I'm currently learning React.<br>💬 Ask me about full-stack.<br>⚡ Fun fact: I love playing competitive video games🎮 and driving🚗.
+🔭 I'm currently working on a Financial automation app.<br>👯 I'm looking to collaborate on a full-stack project.<br>🤝 I'm looking for help with React.<br>🌱 I'm currently learning React.<br>💬 Ask me about full-stack.<br>⚡ Fun fact: I love playing competitive video games🎮 and driving🚗.
 
 
 ## 🌐 Socials:
